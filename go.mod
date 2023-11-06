@@ -1,4 +1,4 @@
-module github.com/snyk/driftctl
+module github.com/markus-geiger/driftctl
 
 go 1.17
 
